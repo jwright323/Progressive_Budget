@@ -18,12 +18,9 @@ When brought back online:
 
 * Offline entries should be added to tracker.
 
-<p>&nbsp;<p>
-
 ## Table of Contents
 * [Installation](#installation)
 * [User-Story](#User-Story)
 * [Usage](#usage)
 * [License](#license)
 
-<p>&nbsp;<p>
